@@ -20,7 +20,11 @@ h3{
   text-align: right;
   color: gray;
 }
-p{
+.ex{
   color: gray;
   font-size: 21px;
+}
+.a{
+  text-align: right;
+  color: gray;
 }
